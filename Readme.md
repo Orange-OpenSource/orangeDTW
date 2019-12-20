@@ -1,6 +1,6 @@
 EFFICIENT DTW FOR PYTHON 2 AND 3
 
-Copyright (C) 2019 Jerome GALTIER Orange/TGI/OLS/SOFT
+Copyright (C) 2019 Jerome GALTIER Orange Labs
 
 # INSTALLATION
 
