@@ -1,7 +1,7 @@
 """Python 2 or 3 example for DTW"""
 
 
-# Copyright © 2019 Orange – All rights reserved
+# Copyright (C) 2019 Orange – All rights reserved
 
 # before executing compile DTW.FOR using f2py or f2py3
 
