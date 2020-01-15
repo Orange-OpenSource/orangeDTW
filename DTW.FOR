@@ -4,7 +4,7 @@ C DTW (Dynamic Time Warping)
 C Version: 1.0
 C Created: 05/11/2019
 C
-C Copyright (C) 2019 Jerome GALTIER / Orange Labs
+C Copyright © 2019 Orange – All rights reserved
 C
 C MIT License
 C
